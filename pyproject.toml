@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tts-replicator"
+version = "0.1.0"
+description = "Gemini 3.8 Flash TTS voice replication and WAV synthesis"
+requires-python = ">=3.10"
+dependencies = ["google-auth[requests]>=2.29,<3"]
+
+[project.optional-dependencies]
+sdk = ["google-genai>=2.33,<3"]
+
+[project.scripts]
+tts-replicator = "tts_replicator:main"
+
+[tool.setuptools]
+py-modules = ["tts_replicator"]

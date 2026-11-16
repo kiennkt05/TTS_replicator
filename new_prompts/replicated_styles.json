@@ -1,0 +1,18 @@
+{
+  "smooth_neutral": {
+    "text": "Xin chào em luôn sẵn sàng hỗ trợ anh một cách tận tình và chu đáo",
+    "style": "Giọng miền Bắc tự nhiên và trung tính nói trôi chảy liền mạch với nhịp đều không ngắt nghỉ bất thường"
+  },
+  "articulated": {
+    "text": "Em sẽ đọc thật rõ từng thông tin để anh dễ dàng theo dõi nhé.",
+    "style": "Giọng miền Bắc phát âm rõ ràng từng chữ mạch lạc tự nhiên với tốc độ vừa phải không ngắt quãng quá mức"
+  },
+  "apologetic": {
+    "text": "Em thật lòng xin lỗi anh vì sự bất tiện này và mong anh thông cảm ạ.",
+    "style": "Giọng miền Bắc buồn bã, giọng trầm lại thể hiện sự áy náy và hối lỗi"
+  },
+  "excited": {
+    "text": "Tuyệt quá anh ơi em rất vui vì cuối cùng mình đã tìm được rồi!",
+    "style": "Giọng miền Bắc hào hứng tươi sáng vui vẻ đầy năng lượng thể hiện sự phấn khích và niềm vui tự nhiên"
+  }
+}
